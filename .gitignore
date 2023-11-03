@@ -1,0 +1,5 @@
+/data/confs/*
+/data/surface/*
+/data/*.csv
+/out/models/*
+**/__pycache__
